@@ -1,1 +1,0 @@
-# texture-image-corner-nonCorner
